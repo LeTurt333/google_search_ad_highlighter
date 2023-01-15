@@ -18,13 +18,19 @@
 Get the code from this repo however you want
 
 - Download the zip file (if you're not a dev, use this option)
+  - ![image](https://user-images.githubusercontent.com/89463679/212560335-db878f93-fc30-41bf-a494-b6c1483345e3.png)
+
   - Extract / Unzip the file | [How to Unzip on Mac](https://support.apple.com/guide/mac-help/zip-and-unzip-files-and-folders-on-mac-mchlp2528/mac) / [How to Unzip on Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)
-  - Delete the `README.md` and `.gitignore` files
+  - Delete the `README.md` file
 
 - git clone
 
+<br/>
+
 ### 2
 Open Chrome extension settings by visiting `chrome://extensions` in your browser (type this where you would type `https://google.com` at)
+
+<br/>
 
 ### 3
 Turn on developer mode, then click "Load unpacked"
